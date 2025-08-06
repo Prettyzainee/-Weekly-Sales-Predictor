@@ -1,0 +1,1 @@
+Weekly_Sales_Model.h5e is a predicting  model that predit weekly sales based on the forces such as fuel prices spiked, temperatures swayed, unemployment statistics shifte and even holiday.How this factors can shape future sale. 
